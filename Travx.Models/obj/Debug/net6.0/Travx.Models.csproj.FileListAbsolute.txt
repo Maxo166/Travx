@@ -1,0 +1,12 @@
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\bin\Debug\net6.0\Travx.Models.deps.json
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\bin\Debug\net6.0\Travx.Models.dll
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\bin\Debug\net6.0\ref\Travx.Models.dll
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\bin\Debug\net6.0\Travx.Models.pdb
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.csproj.AssemblyReference.cache
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.AssemblyInfoInputs.cache
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.AssemblyInfo.cs
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.csproj.CoreCompileInputs.cache
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.dll
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\ref\Travx.Models.dll
+C:\Users\copumax\Documents\maxo\Travx\Travx.Models\obj\Debug\net6.0\Travx.Models.pdb
