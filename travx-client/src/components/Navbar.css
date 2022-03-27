@@ -1,0 +1,17 @@
+:root{
+    --med-light-green :#8bc34a ;
+    --supper-light-green:#cddc39 ;
+}
+nav.navbar{
+    background-color: var(--med-light-green);
+}
+nav.navbar a{
+    color: white;
+}
+nav.navbar a.dropdown-item{
+    color: black !important;
+}
+.navbar-brand>img{
+    width:30px;
+    height:24px ;
+}

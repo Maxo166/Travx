@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rHGI5Pdm3pz+j6rAs7nWhCvvHBL9Tyhq3hTHcv89uNDplVDulHtENwy2esoPdt+pNhbKwAnqTjTf4xYv75ewzQ==",
+  "dgSpecHash": "KHSdSmgH3uGwTT/OWTonK9CWtOT8GPWrN1pKT2EU4DYtUg9S/jJxamrW52SLHdMwr+4zeMXWz9JCnZxJ/eTtyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\copumax\\Documents\\maxo\\Travx\\Travx.API\\Travx.API.csproj",
+  "projectFilePath": "C:\\Users\\copumax\\Documents\\maxo\\Travx\\travx.API\\Travx.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\copumax\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\copumax\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
