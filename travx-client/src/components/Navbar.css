@@ -3,10 +3,11 @@
     --supper-light-green:#cddc39 ;
 }
 nav.navbar{
-    background-color: var(--med-light-green);
+    background-color: white;
+    border-bottom: 1px solid #dee2e6;
 }
 nav.navbar a{
-    color: white;
+    color: black;
 }
 nav.navbar a.dropdown-item{
     color: black !important;
